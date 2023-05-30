@@ -1,4 +1,4 @@
-# Ethical Code Review Guideline 👌
+# [Ethical Code Review Guideline 👌](https://youtu.be/sUQXLTGgel0)
 
 #### Please visit the wiki for more info https://github.com/muhamed-hassan/code_review_guideline/wiki
 
