@@ -11,7 +11,8 @@ It's nice to have a look at [work](https://en.wikipedia.org/wiki/Work_ethic) and
 ***
 ***
 
-![5a246390d86ac38d260acf591543d8b0](https://user-images.githubusercontent.com/17825804/219570479-e3b62618-15e3-4ea3-8bb8-3bf969587f8b.jpg)
+![superman_by_ai_visions_dhibol2](https://github.com/user-attachments/assets/670a81b4-25f3-403c-92e8-b8320687149f)
+
 
 
 
