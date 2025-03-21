@@ -10,6 +10,10 @@ It's nice to have a look at [work](https://en.wikipedia.org/wiki/Work_ethic) and
 
 ***
 
+Please visit this [**`link`**](https://github.com/muhamed-hassan/code_review_guideline/wiki/Jokes-in-ensuring-code-quality-of-any-codebase-in-the-world) for jokes section
+
+***
+
 ![superman_by_ai_visions_dhibol2](https://github.com/user-attachments/assets/670a81b4-25f3-403c-92e8-b8320687149f)
 
 
