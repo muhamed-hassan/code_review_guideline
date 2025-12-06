@@ -10,7 +10,7 @@ It's nice to have a look at [work](https://en.wikipedia.org/wiki/Work_ethic) and
 
 ***
 
-Please visit this [**`link`**](https://github.com/muhamed-hassan/code_review_guideline/wiki/Jokes-in-ensuring-code-quality-of-any-codebase-in-the-world) for jokes section
+Please visit this [**`link-1`**](https://github.com/muhamed-hassan/code_review_guideline/wiki/Jokes-in-ensuring-code-quality-of-any-codebase-in-the-world) and [**`link-2`**](https://github.com/muhamed-hassan/code_review_guideline/wiki/Jokes-about-Test%E2%80%90code) for jokes section
 
 ***
 
